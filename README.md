@@ -80,20 +80,23 @@ The workflow includes:
 2_PYTHON_ANALYSIS
 3_POWER_BI_DASHBOARD
 4_DASHBOARD_SCREENSHOTS
+```
+
+---
 
 ## Dashboard Screenshots
 
 ### Operations Dashboard
-![Operations Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/HEALTHCARE-ANALYTICS-DASHBOARD/main/4_dashboard_screenshots/1_operations_dashboard.png)
+![Operations Dashboard](https://raw.githubusercontent.com/ksaidurgaprasad16/HEALTHCARE-ANALYTICS-DASHBOARD/refs/heads/main/4_DASHBOARD_SCREENSHOTS/1_Operations_Dashboard.png)
 
 ### Performance Dashboard
-![Performance Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/HEALTHCARE-ANALYTICS-DASHBOARD/main/4_dashboard_screenshots/2_performance_dashboard.png)
+![Performance Dashboard](https://raw.githubusercontent.com/ksaidurgaprasad16/HEALTHCARE-ANALYTICS-DASHBOARD/refs/heads/main/4_DASHBOARD_SCREENSHOTS/2_Performance_Dashboard.png)
 
 ### Revenue Dashboard
-![Revenue Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/HEALTHCARE-ANALYTICS-DASHBOARD/main/4_dashboard_screenshots/3_revenue_dashboard.png)
+![Revenue Dashboard](https://raw.githubusercontent.com/ksaidurgaprasad16/HEALTHCARE-ANALYTICS-DASHBOARD/refs/heads/main/4_DASHBOARD_SCREENSHOTS/3_Revenue_Dashboard.png)
 
 ### Insurance Dashboard
-![Insurance Dashboard](https://raw.githubusercontent.com/YOUR_USERNAME/HEALTHCARE-ANALYTICS-DASHBOARD/main/4_dashboard_screenshots/4_insurance_dashboard.png)
+![Insurance Dashboard](https://raw.githubusercontent.com/ksaidurgaprasad16/HEALTHCARE-ANALYTICS-DASHBOARD/refs/heads/main/4_DASHBOARD_SCREENSHOTS/4_Insurance_Dashboard.png)
 
 ---
 
